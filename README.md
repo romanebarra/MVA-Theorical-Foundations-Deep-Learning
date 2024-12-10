@@ -1,1 +1,1 @@
-# MVA-Theorical-Fondations-Deep-Learning
+# MVA-Theorical-Foundations-Deep-Learning
